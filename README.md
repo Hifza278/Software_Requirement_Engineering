@@ -1,2 +1,4 @@
 # Software_Requirement_Engineering
-All report  related to project is present  
+All reports related to the project are present. In this course, we make an SRS of the Bus Reservation system.
+   
+
